@@ -1,0 +1,20 @@
+Trials: 20
+Best trial: 2
+Best hyper parameters:
+  learning_rate: 0.0015171670691312919
+  batch_size: 128
+Best accuracy: 0.9952
+
+Trials: 40
+Best trial: 26
+Best hyper parameters:
+  learning_rate: 0.0008157031006798315
+  batch_size: 64
+Best accuracy: 0.9943
+
+Second run of trials 40 (accidental):
+Best trial: 48
+Best hyper parameters:
+  learning_rate: 0.002593020234427292
+  batch_size: 256
+Best accuracy: 0.994523823261261
